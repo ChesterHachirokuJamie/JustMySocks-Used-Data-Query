@@ -2,7 +2,7 @@ function Encrypt-Script{
 param(
 [system.io.fileinfo]$File
 )
->>
+
 if($File.Exists){
 $fileContent = Get-Content $File -Raw
 $bytes = [System.Text.Encoding]::Unicode.GetBytes($fileContent)
