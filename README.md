@@ -8,6 +8,7 @@ Powershell Code:
 ![image](https://user-images.githubusercontent.com/113445377/203686885-08abc8c3-5abd-4ab5-9965-832e10f41cb1.png)
 
 Using the Powershell Encrypt Script to convert the .ps1 into .bat
-![image](https://user-images.githubusercontent.com/113445377/203687091-4539a143-82c2-4047-b8d6-ce034969c6cd.png)
+![image](https://user-images.githubusercontent.com/113445377/203688458-b7b8989b-a402-4a08-8c5f-14bcc0cac2d8.png)
+
 
 The bat can then be added into the Task Scheduler and thus can be automated.
